@@ -1,3 +1,5 @@
+[![Coverage Status](https://coveralls.io/repos/github/xingcx/testing/badge.svg?branch=master)](https://coveralls.io/github/xingcx/testing?branch=master)
+
 # Ruleset Checking Tool
 
 Ruleset Checking Tool for ANSI/ASHRAE/IES Standard 90.1-2019 Appendix G
